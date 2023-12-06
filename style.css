@@ -193,7 +193,7 @@ aside.sidebar .menu-icons .close-btn {
 }
 
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .container .logo {
     display: none;
   }
