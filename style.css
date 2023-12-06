@@ -288,12 +288,6 @@ aside.sidebar .menu-icons .close-btn {
     right: 0;
   }
 
-  .container a.btn.dark {
-  background: #17183b;
-  color: #eae8ff;
-  position: absolute;
-}
-
   aside.sidebar .menu-icons .close-btn {
     display: block;
     position: absolute;
