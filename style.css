@@ -18,6 +18,16 @@ body {
   height: 100%;
 }
 
+.footer{
+  font-size: 12px;
+  text-align: center;
+}
+
+.footer a{
+  text-decoration: none;
+  color: blue;
+}
+
 /* Sidebar */
 
 aside.sidebar {
@@ -296,4 +306,10 @@ aside.sidebar .menu-icons .close-btn {
     left: 0;
     right: 0;
   }
+
+.footer{
+  font-size: 9px;
+}
+
+
 }
